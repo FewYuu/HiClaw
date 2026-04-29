@@ -1,0 +1,5 @@
+matrix-nio
+requests
+python-dotenv
+lxml
+pip install -r requirements.txt
